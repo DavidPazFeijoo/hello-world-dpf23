@@ -1,0 +1,3 @@
+"I'm not afraid of computers, what I fear is losing them" dpf23 - Isaac Asimov
+"Computing has as much to do with computers as astronomy with telescopes" dpf23 - Edsger W. Dijkstra
+"hello world"
